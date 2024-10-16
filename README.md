@@ -5,7 +5,6 @@
 
 - 📫 Contact me 👉 **You can ping me via twitter(most active),linkedin and my email**
 
-- Email [oms87473@gmail.com](oms87473@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
