@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om Sawant</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 👨‍💻 All of my projects are available in this Resume [https://drive.google.com/file/d/1p6CD4b58ZnOwL5tae8IDewg3Iw58aAwm/view?usp=drive_link](https://drive.google.com/file/d/1p6CD4b58ZnOwL5tae8IDewg3Iw58aAwm/view?usp=drive_link)
 
 - 📫 Contact me 👉 **You can ping me via twitter(most active),linkedin and my email**
 
